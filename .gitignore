@@ -1,0 +1,10 @@
+# CLion
+
+.idea
+
+# Librairies
+
+extern
+
+# Build
+cmake_build_debug
